@@ -1,0 +1,11 @@
+langchain_classic
+langchain-community
+langchain-mistralai
+chromadb
+pypdf
+python-dotenv
+sentence-transformers
+
+fastapi
+uvicorn
+pymongo
